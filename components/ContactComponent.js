@@ -33,7 +33,7 @@ class Contact extends Component {
               buttonStyle={{ backgroundColor: "#5637dd", margin: 40 }}
               icon={
                 <Icon
-                  name="envelope"
+                  name="envelope-o"
                   type="font-awesome"
                   color="#fff"
                   iconStyle={{ marginRight: 10 }}
